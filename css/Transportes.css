@@ -64,3 +64,20 @@ footer{
     margin: 0 auto;
     /* background-color: orange; */
 }
+ 
+h2{
+    color: #2e64a1;
+    font-weight: 400;
+}
+
+/* inicio home */
+.bienvenidos{
+    width: 75%;
+}
+
+.testimonios{
+    width: 75%;
+}
+
+
+/* fin home */
